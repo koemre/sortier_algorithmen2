@@ -14,7 +14,7 @@ public class insertionsort {
             System.out.print(i + " ");
         }
     }
-
+    // tmp
     private static void insertionSort(int[] array){
         for (int i = 1; i < array.length; i++) {
             int tmp = array[i];
